@@ -1,0 +1,2 @@
+rootProject.name='Zhihu Reader'
+include ':app'
