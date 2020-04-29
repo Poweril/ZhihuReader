@@ -27,6 +27,7 @@
                 android:id="@+id/viewpager_toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:background="@drawable/viewpager_placeholder"
                 app:layout_collapseMode="parallax" >
             </androidx.viewpager2.widget.ViewPager2>
 
