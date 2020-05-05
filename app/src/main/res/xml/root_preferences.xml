@@ -3,13 +3,13 @@
     <PreferenceCategory app:title="@string/display_header">
 
         <SwitchPreferenceCompat
-            app:key="dark_mode"
-            app:title="@string/dark_mode_title" />
+            app:key="dark_theme"
+            app:title="@string/dark_theme_title" />
 
         <ListPreference
             app:key="language"
             app:title="@string/language_title"
-            app:defaultValue="zh"
+            app:defaultValue="auto"
             app:entries="@array/language_entries"
             app:entryValues="@array/language_values"
             app:useSimpleSummaryProvider="true" />

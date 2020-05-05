@@ -97,7 +97,7 @@
     <string name="display_header">Display</string>
 
     <!-- Display Preferences -->
-    <string name="dark_mode_title">Dark mode</string>
+    <string name="dark_theme_title">Dark theme</string>
     <string name="language_title">Language</string>
 
     <!-- Sync Preferences -->

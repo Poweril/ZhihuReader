@@ -89,5 +89,5 @@
     <string name="display_header">显示</string>
     <string name="signature_title">你的签名</string>
     <string name="language_title">语言</string>
-    <string name="dark_mode_title">夜间模式</string>
+    <string name="dark_theme_title">深色主题</string>
 </resources>
